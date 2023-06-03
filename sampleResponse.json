@@ -1,0 +1,137 @@
+
+{
+"status": "ok",
+"totalResults": 10,
+"articles": [
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",   
+"title": "Jerusalem Sbarro pizza bombing victim dies after 22 years in coma",
+"description": "Chana Nachenberg, a US-Israeli citizen, was 31 at the time of the deadly attack on a pizzeria.",
+"url": "http://www.bbc.co.uk/news/world-middle-east-65754102",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E800/production/_129929395_mediaitem129929394.jpg",
+"publishedAt": "2023-06-01T10:22:19.6432795Z",
+"content": "A US-Israeli woman has died after 22 years in a coma from injuries suffered in a Palestinian suicide bombing at a pizza restaurant in Jerusalem.\r\nChana Nachenberg was 31 at the time of the attack at … [+2202 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Tupac Shakur: Rapper 2Pac to get star on Hollywood Walk of Fame",
+"description": "The hip-hop star will be honoured with a ceremony on the prestigious Los Angeles walkway on 7 June.",
+"url": "http://www.bbc.co.uk/news/entertainment-arts-65769938",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/54D3/production/_129951712_2pacgettyimages-76154363.jpg",
+"publishedAt": "2023-06-01T10:22:17.0189323Z",
+"content": "Tupac Shakur is to receive a star on the Hollywood Walk of Fame, 26 years after the rapper's death.\r\nThe hip-hop star will be honoured with a ceremony on the prestigious Los Angeles walkway on 7 June… [+969 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "US-Taiwan relations: New trade deal to be signed as China tensions rise",
+"description": "The announcement comes ahead of a high-level global security summit in Singapore this weekend.",
+"url": "http://www.bbc.co.uk/news/business-65773797",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D935/production/_129950655_gettyimages-1250754065.jpg",
+"publishedAt": "2023-06-01T09:37:20.6381343Z",
+"content": "The US and Taiwan are set to sign a new trade deal on Thursday as tensions with China rise.\r\nIt will be the first agreement under a framework for talks between Washington and Taipei called the US-Tai… [+2007 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Armie Hammer: US actor will not be charged with sexual assault",
+"description": "The US actor faced an accusation of rape an allegations he sent a string of explicit messages online.",
+"url": "http://www.bbc.co.uk/news/entertainment-arts-65775249",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1625B/production/_129951709_armiegettyimages-1089794850.jpg",
+"publishedAt": "2023-06-01T09:37:20.2319855Z",
+"content": "US actor Armie Hammer will not be charged over allegations of sexual assault, prosecutors have confirmed.\r\nThe Social Network star was accused two years ago of raping a woman in Los Angeles in 2017.\r… [+2889 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Donald Trump recorded saying he kept classified file after leaving office",
+"description": "Prosecutors investigating the former president's handling of classified files obtain an audio tape.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-65775163",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AA5F/production/_129951634_3bf18672d74cd073b9207d27d82fddbcaaa36e930_166_3605_20291000x563.jpg",
+"publishedAt": "2023-06-01T09:37:19.669627Z",
+"content": "US prosecutors have obtained an audio recording of Donald Trump in which he acknowledges keeping a classified document after leaving the White House.\r\nCNN first reported that investigators had the ta… [+2657 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Ukraine war: Russia blames shelling inside border town on Kyiv",
+"description": "Shelling in the Russian region of Belgorod wounds five people and strikes in Kyiv kill three people, officials say.",
+"url": "http://www.bbc.co.uk/news/live/world-europe-65774993",
+"urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+"publishedAt": "2023-06-01T07:52:21.7847495Z",
+"content": "Good morning and welcome to our coverage of the war in Ukraine\r\nas the country's officials are reporting three people have died in an overnight\r\nmissile attack on Kyiv.\r\nAnother 11 people were report… [+776 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Moment climber is rescued from Everest ‘death zone’",
+"description": "A Nepali sherpa guide carried the man on his back for six hours during the \"very rare\" high-altitude rescue.",
+"url": "http://www.bbc.co.uk/news/world-asia-65773723",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11B39/production/_129950527_p0frkx0w.jpg",
+"publishedAt": "2023-06-01T07:07:18.7788895Z",
+"content": "Nepali guide Gelje Sherpa found a Malaysian climber shivering and clutching a rope in the area of Mount Everest called the \"death zone\", where temperatures can dip to -30C. \r\nHe carried the climber d… [+124 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Ben Roberts-Smith: Australian soldier loses landmark defamation case",
+"description": "Ben Roberts-Smith loses his defamation case against newspapers which accused him of war crimes.",
+"url": "http://www.bbc.co.uk/news/world-australia-65773942",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+"publishedAt": "2023-06-01T05:07:18.6218353Z",
+"content": "Australia's most-decorated living soldier Ben Roberts-Smith has lost a historic defamation case against three newspapers which accused him of war crimes in Afghanistan.\r\nThe Australian newspapers wer… [+1231 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Debt ceiling deal: US House overwhelmingly passes bill",
+"description": "The Senate must approve the deal and send it to the president's desk this weekend to avoid a default.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-65771669",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E0FA/production/_129949575_kevinmc.jpg",
+"publishedAt": "2023-06-01T01:52:20.779702Z",
+"content": "The House of Representatives has approved a deal to allow the US to borrow more money, days before the world's biggest economy is due to start defaulting on its national debt.\r\nThe measure passed the… [+4174 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "The untold tale of America's first spelling bee victor",
+"description": "Marie Bolden, a black teenager, won the first US spelling bee in 1908. Her win was eclipsed by racism.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-65755792",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16116/production/_129909309_microsoftteams-image-33.png",
+"publishedAt": "2023-06-01T00:22:15.4516495Z",
+"content": "In 1908, Marie C Bolden, an African American teenager, became the first-ever spelling bee champion in the US, overcoming tricky words like 'acquiesce', 'descendant' and 'millinery' on her way to the … [+4548 chars]"
+}
+]
+}
