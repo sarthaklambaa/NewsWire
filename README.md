@@ -14,9 +14,9 @@ To download and preview the source code of the web app, please follow these step
 4. Extract the contents of the ZIP file to a folder on your local machine.
 5. Open a terminal or command prompt and navigate to the project's root directory.
 6. Install the project dependencies by running the following command:
-`npm install`
+### `npm install`
 7. Start the development server with the following command:
-`npm start`
+### `npm start`
 
 8. Open your web browser and navigate to `http://localhost:3000` to access the app.
 
