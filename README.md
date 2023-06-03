@@ -8,7 +8,7 @@ Please note that the live preview of this web app is not available in this repos
 
 To download and preview the source code of the web app, please follow these steps:
 
-1. Visit the GitHub repository: [link-to-your-repository](https://github.com/your-username/your-repo).
+1. Visit the GitHub repository: [NewsWire](https://github.com/sarthaklambaa/NewsWire).
 2. Click on the "Code" button.
 3. Select "Download ZIP" to download the repository as a ZIP file.
 4. Extract the contents of the ZIP file to a folder on your local machine.
